@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Alexandercryan/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1816-truncate-sentence](https://github.com/Alexandercryan/LeetCode/tree/master/1816-truncate-sentence) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/Alexandercryan/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 ## String
 |  |
 | ------- |
