@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2235-add-two-integers](https://github.com/Alexandercryan/LeetCode/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/Alexandercryan/LeetCode/tree/master/2413-smallest-even-multiple) |
 ## Array
 |  |
 | ------- |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Alexandercryan/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Alexandercryan/LeetCode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
