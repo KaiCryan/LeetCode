@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Alexandercryan/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Alexandercryan/LeetCode/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/Alexandercryan/LeetCode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Alexandercryan/LeetCode/tree/master/2413-smallest-even-multiple) |
 ## Array
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Alexandercryan/LeetCode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Alexandercryan/LeetCode/tree/master/0412-fizz-buzz) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Alexandercryan/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1816-truncate-sentence](https://github.com/Alexandercryan/LeetCode/tree/master/1816-truncate-sentence) |
 ## Prefix Sum
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Alexandercryan/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Alexandercryan/LeetCode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Alexandercryan/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
