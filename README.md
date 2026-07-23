@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Alexandercryan/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Alexandercryan/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Alexandercryan/LeetCode/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/Alexandercryan/LeetCode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Alexandercryan/LeetCode/tree/master/2413-smallest-even-multiple) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Alexandercryan/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Alexandercryan/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Alexandercryan/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Alexandercryan/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Alexandercryan/LeetCode/tree/master/0645-set-mismatch) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Alexandercryan/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Alexandercryan/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Alexandercryan/LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Alexandercryan/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -65,11 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Alexandercryan/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Alexandercryan/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Alexandercryan/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Alexandercryan/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Alexandercryan/LeetCode/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Alexandercryan/LeetCode/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Alexandercryan/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Alexandercryan/LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Alexandercryan/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -89,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Alexandercryan/LeetCode/tree/master/0344-reverse-string) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Alexandercryan/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
